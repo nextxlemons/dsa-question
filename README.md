@@ -1,9 +1,6 @@
-# dsa-question
-
-
 # DSA Practice Solutions
 
-Solutions to Data Structures & Algorithms problems from LeetCode, HackerRank, and Coding Ninjas.
+Solutions to Data Structures & Algorithms problems from LeetCode, HackerRank, and Unstop.
 
 | # | Problem | Difficulty | Topic | Folder |
 |---|---------|-----------|-------|--------|
