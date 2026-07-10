@@ -5,4 +5,4 @@ Solutions to Data Structures & Algorithms problems from LeetCode, HackerRank, an
 | # | Problem | Difficulty | Topic | Folder |
 |---|---------|-----------|-------|--------|
 | 1 | Chessboard Cell Color | Easy | Math | [chessboard-color](./chessboard-color) |
-| 2 | Chessboard Cell Color | Easy | Math | [exchanging-gifts](./exchanging-gifts) |
+| 2 | Exchanging Gifts | Easy | Math | [exchanging-gifts](./exchanging-gifts) |
