@@ -9,3 +9,4 @@ Solutions to Data Structures & Algorithms problems from LeetCode, HackerRank, an
 | 3 | Two Sum | Easy | Math | Leetcode | [1-TwoSum](./1-TwoSum) |
 | 4 | PalindromeNUmber | Easy | Math | Leetcode | [9-PalindromeNumber](./9-PalindromeNumber) |
 | 5 | RomanToInteger | Easy | Math | Leetcode | [13-RomanToInteger](./13-RomanToInteger) |
+| 6 | RemoveDuplicatesfromSortedArray | Easy | List | Leetcode | [13-RomanToInteger](./26-RemoveDuplicatesfromSortedArray) |
