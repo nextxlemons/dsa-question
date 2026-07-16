@@ -10,3 +10,5 @@ Solutions to Data Structures & Algorithms problems from LeetCode, HackerRank, an
 | 4 | PalindromeNUmber | Easy | Math | Leetcode | [9-PalindromeNumber](./9-PalindromeNumber) |
 | 5 | RomanToInteger | Easy | Math | Leetcode | [13-RomanToInteger](./13-RomanToInteger) |
 | 6 | RemoveDuplicatesfromSortedArray | Easy | List | Leetcode | [26-RemoveDuplicatesfromSortedArray](./26-RemoveDuplicatesfromSortedArray) |
+| 7 | RemoveElement | Easy | Math | Leetcode | [27-RemoveElement](./27-RemoveElement) |
+
